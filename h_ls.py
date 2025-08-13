@@ -1,13 +1,13 @@
-# 1. Create an empty list
+# an empty list
 my_list = []
 
-# 2. Append elements 10, 20, 30, 40
+# 2. Appending elements 10, 20, 30, 40
 my_list.append(10)
 my_list.append(20)
 my_list.append(30)
 my_list.append(40)
 
-# 3. Insert 15 at the second position (index 1)
+# 3. Inserting 15 at the second position (index 1)
 my_list.insert(1, 15)
 
 # 4. Extend with [50, 60, 70]
@@ -25,3 +25,4 @@ print("Index of 30:", index_30)
 
 # Optional: print the final list for verification
 print("Final list:", my_list)
+
